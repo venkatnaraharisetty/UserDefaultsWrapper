@@ -13,7 +13,7 @@ We will declare the userdefaults variable as below
  And to save and retrive we can just use storedUserName variable. ex: let x = storedUserName or storedUserName = "Venkat Naraharisetty"[To save].
  
  # Code:
- Code is in file UserDefaultStorage.swift
+ Code is in file UserDefaultStorage.swift file
  
  <img width="817" alt="Screen Shot 2022-12-22 at 4 20 16 PM" src="https://user-images.githubusercontent.com/41311647/209236037-d7d5941f-6e40-4578-93f8-b3f5a1fcc0ec.png">
 
